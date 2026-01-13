@@ -1,6 +1,5 @@
 # TradeFlow - 多智能体股票分析系统
 
-> **金融科技导论 - 课程Demo**
 
 TradeFlow 是一个基于多智能体协作和大语言模型的智能股票分析系统，通过模拟真实交易公司的团队协作模式，实现全面的股票研究与分析。
 
@@ -352,7 +351,6 @@ flake8 app/ tradingagents/
 
 <div align="center">
 
-**金融科技导论 - 课程Demo**
 
 **TradeFlow - 多智能体股票分析系统**
 
